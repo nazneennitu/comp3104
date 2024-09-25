@@ -1,1 +1,1 @@
-console.log('Hello, world from DevOps!');
+!console.log('Hello, World from DevOps!');
